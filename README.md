@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik-Joshi
 - 👀 I’m interested in software development & building web architectures
-- 🌱 I’m currently learning Java and peripheral technologies.
+- 🌱 I’m currently learning C#, Asp.Net and peripheral technologies.
 - 📫 Reach me on, kartik.joshi@metacube.com , kartikj301099@gmail.com
 
 <!---
